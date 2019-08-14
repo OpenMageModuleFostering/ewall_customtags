@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "The extension will display the tags cloud in 3D format and also the ability to add the custom tags in admin.",
+    "description": "This extention displays the tags cloud in 3D format. Also the ability to set custom tags' lists.",
     "authors": [
     {
         "name": "Ewallsolutions",
