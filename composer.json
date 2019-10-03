@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Ewall_Customtags",
+    "name": "OpenMageModuleFostering\/Ewall_Customtags",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "This extention displays the tags cloud in 3D format. Also the ability to set custom tags' lists.",
     "authors": [
-    {
-        "name": "Ewallsolutions",
-        "email": "support@ewallsolutions.com"
-    }
-],
+        {
+            "name": "Ewallsolutions",
+            "email": "support@ewallsolutions.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
